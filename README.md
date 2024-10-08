@@ -30,6 +30,9 @@ This repository contains code and resources for building a deep learning model f
 ## Dataset:
 This project uses the [CASIA-Iris-Thousand](http://www.cbsr.ia.ac.cn/english/IrisDatabase.asp) dataset for training and evaluation.
 
+## My Kaggle Notebook:
+https://www.kaggle.com/code/mdmahmudunnobi/iris-recognition
+
 ## Acknowledgements:
 Special thanks to the creators of the CASIA-Iris-Thousand dataset and the open-source libraries used in this project.
 
