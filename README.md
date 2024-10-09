@@ -73,12 +73,14 @@ Dataset Structure:
 
 - **Image Quality and Variability:** Most of the image was high resulation having 800*600 shape.
 - **Data Insights:** Some data are incorrect as inside one named folder one may find data of another folder. Dataset is highly imbalace.
+  
 ![Distribution of Aspect Ratio](https://github.com/Nobi004/Iris_Recognition_using_Deep_Learning/blob/main/Assets/Distribution%20of%20aspect%20ratio.png)
 
 #### 3.1.3 Data Preprocessing
 Preparation of the dataset for modeling: Data set was turned into a pandas dataframe having label and image data. Data was balanced and
 model was tested on both balanced and unbalanced data.
  As data was imbalance augmentation was slightly incresing the performance in the compensation of huge amount of time.
+ 
 ![Preprocessed Image](https://github.com/Nobi004/Iris_Recognition_using_Deep_Learning/blob/main/Assets/Preprocessed%20Image%20sample.png)
 
 ## 3.2 Model Engineering
