@@ -23,7 +23,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-   - 1.1 Program Overview
+   - 1.1 Project Overview
    - 1.2 Challenge Objective
 2. [Data Source](#data-source)
    - 2.1 Dataset Overview
@@ -43,7 +43,7 @@
    - 3.4 Conclusion and Future Work
 ## 1. Introduction
 
-### 1.1 Program Overview
+### 1.1 Preject Overview
 Iris recognition is a biometric method used to identify individuals based on the unique patterns in the iris of their eyes. This project aims to develop an efficient and accurate iris recognition system using deep learning techniques. By leveraging modern machine learning architectures such as Convolutional Neural Networks (CNNs), we aim to improve the accuracy of identifying individuals from iris images.You can see my full [KAGGLE-NOTEBOOK](https://www.kaggle.com/code/mdmahmudunnobi/iris-recognition/)
 ## 2. Data Source
 
