@@ -95,8 +95,8 @@ The dataset was divided into three subsets: Train dataset provided by kaggle div
 
 ### 3.2.2 Model Architecture
 **Layer Structure:**
-- In the first section 7 Convolutional layer followed by 7 Maxpooling layer used , number of neurons were 32, 64 & 128. kernel size
-were (3,3) .
+- In the first section 7 Convolutional layer followed by 7 Maxpooling layer used , number of neurons were 32, 64 ,128,256 &  512. kernel size
+were (5,5) .
 
 ```
 def create_model():
@@ -150,8 +150,8 @@ def create_model():
  ```
 
 
-- In the second part 2 dense layer were used followed by dropout layer after flattening. In this case number of neurons or filters were
-256, 128 and 35% and 30% dropout was done to prevent overfitting.
+- In the second part 7 dense layer were used followed by dropout layer after flattening. In this case number of neurons or filters were
+512,256, 128,64,32 and 10% to 30% dropout was done to prevent overfitting.
  ```
 #### Flatten and fully connected layers, classifier using relu sofftmax
         Flatten(),
@@ -191,8 +191,8 @@ Model was tranied on  balanced  data for 200 epoch.
 - ![Loss Learning Curve](https://github.com/Nobi004/Iris_Recognition_using_Deep_Learning/blob/main/Assets/Loss%20learning%20curve.png)
 ## 3.3 Evaluation and Analysis
 - Validation and test accuracy by custom model on balanced dataset
-- ![evalution code and results](https://github.com/ArtificialIntelligenceResearch/Cassava-leaf-disease-classification-by-M.Nobi-/blob/main/Images/Screenshot%202024-07-16%20125555.png)
+- ![Evalution Code and Results](https://github.com/Nobi004/Iris_Recognition_using_Deep_Learning/blob/main/Assets/Evalution%20Code%20and%20Results.png)
 ### 3.3.1 Performance Testing
 - Some predictions
 - ![Some Output predictions](https://github.com/Nobi004/Iris_Recognition_using_Deep_Learning/blob/main/Assets/Some%20prediction%20outputs.png)
-t
+
