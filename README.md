@@ -1,6 +1,6 @@
 <div align="center">
-      <h1> <img src="https://github.com/Nobi004/Iris_Recognition_using_Deep_Learning/blob/main/Assets/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png" width="700px"><br/> Iris Recognition using Deep Learning
- Documentation </h1>
+      <h1> <img src="https://github.com/Nobi004/Iris_Recognition_using_Deep_Learning/blob/main/Assets/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png" width="700px"><br/> 
+            Biometric Iris Recognition using Deep Learning Documentation </h1>
      </div>
 
 <body>
