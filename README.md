@@ -44,11 +44,11 @@
 ## 1. Introduction
 
 ### 1.1 Program Overview
-Iris recognition is a biometric method used to identify individuals based on the unique patterns in the iris of their eyes. This project aims to develop an efficient and accurate iris recognition system using deep learning techniques. By leveraging modern machine learning architectures such as Convolutional Neural Networks (CNNs), we aim to improve the accuracy of identifying individuals from iris images.
+Iris recognition is a biometric method used to identify individuals based on the unique patterns in the iris of their eyes. This project aims to develop an efficient and accurate iris recognition system using deep learning techniques. By leveraging modern machine learning architectures such as Convolutional Neural Networks (CNNs), we aim to improve the accuracy of identifying individuals from iris images.You can see my full [KAGGLE-NOTEBOOK](https://www.kaggle.com/code/mdmahmudunnobi/iris-recognition/)
 ## 2. Data Source
 
 ### 2.1 Dataset Overview
-The CASIA-Iris-Thousand dataset is one of the most widely used iris image datasets for biometric identification. It contains high-quality iris images captured under controlled conditions, making it ideal for training and evaluating iris recognition models. This dataset has been instrumental in research and development within the field of biometric recognition, specifically focusing on the unique patterns found in the human iris.
+The [CASIA-Iris-Thousand](https://www.kaggle.com/datasets/achampetasonali/casia-iris-thousand) dataset is one of the most widely used iris image datasets for biometric identification. It contains high-quality iris images captured under controlled conditions, making it ideal for training and evaluating iris recognition models. This dataset has been instrumental in research and development within the field of biometric recognition, specifically focusing on the unique patterns found in the human iris.
 
 ### 2.2 Accessing the Dataset
 The dataset is hosted on Kaggle, a popular platform for data science competitions and collaborative projects.
